@@ -1,6 +1,6 @@
 // Simple numeric password mechanism
 // Adjust this PIN to whatever you like
-const CORRECT_PIN = "190312"; // example birthday code
+const CORRECT_PIN = "190309"; // example birthday code
 
 const input = document.getElementById("pin-input");
 const keypad = document.querySelector(".keypad");
